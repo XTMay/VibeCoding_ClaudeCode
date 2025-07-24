@@ -39,7 +39,7 @@ Claude Code是Anthropic公司开发的AI编程助手，基于Claude 3.5 Sonnet�
 **Step 1: 安装Claude CLI**
 ```bash
 # 使用npm安装Claude命令行工具
-npm install -g @anthropic-ai/claude-cli
+npm install -g @anthropic-ai/claude-code
 
 # 验证安装
 claude --version
@@ -154,6 +154,7 @@ claude generate --file calculator.py --prompt "创建一个科学计算器"
 - [Claude API官方文档](https://docs.anthropic.com/claude/reference)
 - [Python 3.12新特性](https://docs.python.org/3.12/whatsnew/3.12.html)
 - [Prompt工程指南](https://docs.anthropic.com/claude/docs/prompt-engineering)
+- [Claude Claude-code官方网站](https://www.anthropic.com/claude-code)
 
 ## 📋 检查清单
 
