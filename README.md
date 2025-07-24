@@ -1,4 +1,4 @@
-# 🤖 Claude Code + Prompt Engineering 实战课（中英文双语）
+# 🤖 Claude Code + Prompt Engineering 实战课
 
 > 🚀 用 Claude 打造你的第一个 AI 应用，掌握提示词工程，构建实用 AI 工具！
 
@@ -229,10 +229,10 @@ ClaudeCode_PromptEngineering/
 
 ## 📢 联系与加入 | Join Us
 
-欢迎关注 [ClimbAI Lab](https://github.com/climbai-lab) 获取更多课程与AI开发资源！
+欢迎关注 [ClimbAI Lab]([https://github.com/climbai-lab](https://www.climbai.dev/)) 获取更多课程与AI开发资源！
 
 如需报名课程或企业/高校合作，请联系：  
-📧 **climbai.lab@gmail.com**  
-📍 微信公众号 / 小红书 / B站：`ClimbAI`
+📧 **climbaidev@gmail.com**  
+📍 微信公众号 / 小红书 / B站 / YouTube：`ClimbAI`
 
 ---
