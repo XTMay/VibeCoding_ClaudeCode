@@ -63,7 +63,7 @@ npm --version
 
 ```bash
 # 全局安装Claude CLI
-npm install -g @anthropic-ai/claude-cli
+npm install -g @anthropic-ai/claude-code
 
 # 验证安装
 claude --version
