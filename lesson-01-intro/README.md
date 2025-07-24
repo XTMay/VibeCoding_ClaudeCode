@@ -8,7 +8,7 @@
 
 ## 📖 课程内容
 
-### 1. Claude Code简介 (15分钟)
+### 1. Claude Code简介
 
 #### 什么是Claude Code？
 Claude Code是Anthropic公司开发的AI编程助手，基于Claude 3.5 Sonnet模型，专门为代码生成、理解和协作而设计。
@@ -26,7 +26,7 @@ Claude Code是Anthropic公司开发的AI编程助手，基于Claude 3.5 Sonnet�
 - Go, Rust, Java, C++
 - Shell脚本和配置文件
 
-### 2. 安装配置详解 (20分钟)
+### 2. 安装配置详解
 
 #### 系统要求
 - macOS 10.15+ / Windows 10+ / Linux
@@ -64,7 +64,7 @@ cd claude-lesson-01
 claude init
 ```
 
-### 3. 终端集成实战 (10分钟)
+### 3. 终端集成实战
 
 #### 基本命令操作
 ```bash
