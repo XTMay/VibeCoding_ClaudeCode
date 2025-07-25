@@ -92,6 +92,38 @@ claude generate --file calculator.py --prompt "创建一个科学计算器"
 }
 ```
 
+### The most frequently used Claude Code commands:
+
+  File Operations:
+  - claude read <file> - Read file contents
+  - claude edit <file> - Edit a file
+  - claude create <file> - Create a new file
+
+  Search & Navigation:
+  - claude search <pattern> - Search for text in files
+  - claude find <filename> - Find files by name
+  - claude grep <pattern> - Search with regex patterns
+
+  Code Analysis:
+  - claude explain <file> - Explain code functionality
+  - claude review <file> - Code review and suggestions
+  - claude refactor <file> - Refactor code
+
+  Project Operations:
+  - claude run <command> - Execute shell commands
+  - claude test - Run tests
+  - claude build - Build the project
+
+  Git Integration:
+  - claude commit "message" - Create git commit
+  - claude diff - Show git differences
+  - claude status - Show git status
+
+  Interactive Mode:
+  - claude - Start interactive session
+  - /help - Get help within interactive mode
+  - Ctrl+C - Exit interactive mode
+
 ### 4. 实战项目：智能计算器 (15分钟)
 
 我们将使用Claude Code创建一个功能完整的命令行计算器。
